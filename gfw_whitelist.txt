@@ -81,6 +81,7 @@
 
 ! 9
 ||91.com
+||91weitu.com
 ||95516.com
 ||95579.com
 ||97973.com
@@ -182,6 +183,7 @@
 ||ceping.com
 ||ch.com
 ||changba.com
+||chemsrc.com
 ||china.com
 ||chinagwy.org
 ||chinanetcenter.com
@@ -271,6 +273,7 @@
 ||ecol-env-prot.com
 ||eeboard.com
 ||egovsum.com
+||eia543.com
 ||eiafans.com
 ||elemecdn.com
 ||ele.me
@@ -552,6 +555,7 @@
 ||panda.tv
 ||pangu.io
 ||pansou.com
+||pc6.com
 ||pcbeta.com
 ||pcgeshi.com
 ||pdcicons.ml
@@ -643,7 +647,6 @@
 ||shtxcj.com
 ||shuizhili.com
 ||shxwcb.com
-||sigmaaldrich.com
 ||sina.com
 ||sinaapp.com
 ||since1989.org
