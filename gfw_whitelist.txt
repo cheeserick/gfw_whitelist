@@ -165,6 +165,8 @@
 ||buildhr.com
 ||bumimi.com
 ||bybbs.org
+||bzfxw.com
+||bzfxw.org
 
 ! C
 ||cachemoment.com
