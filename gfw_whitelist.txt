@@ -504,7 +504,6 @@
 ||mojidict.com
 ||mokeedev.com
 ||momentcdn.com
-||msftconnecttest.com
 ||msstatic.com
 ||mtyun.com
 ||muchong.com
