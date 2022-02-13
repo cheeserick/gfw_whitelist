@@ -84,6 +84,7 @@
 ||91weitu.com
 ||95516.com
 ||95579.com
+||962222.net
 ||97973.com
 
 ! A
@@ -114,6 +115,7 @@
 ||alipayobjects.com
 ||alipcsec.com
 ||alisports.com
+||aliwork.com
 ||aliyun.com
 ||aliyuncs.com
 ||amap.com
@@ -158,6 +160,7 @@
 ||bilivideo.com
 ||blackyau.cc
 ||blogjava.net
+||book118.com
 ||bookfere.com
 ||bootcss.com
 ||bqtalk.com
@@ -170,6 +173,7 @@
 
 ! C
 ||cachemoment.com
+||cadzj.com
 ||caixin.com
 ||cctv.com
 ||cdn.jsdelivr.net
@@ -185,6 +189,7 @@
 ||ceping.com
 ||ch.com
 ||changba.com
+||chemnet.com
 ||chemsrc.com
 ||china.com
 ||chinagwy.org
@@ -247,11 +252,13 @@
 ||dilidili.com
 ||dilidili.wang
 ||dingtalk.com
+||ditiepi.com
 ||diybeta.com
 ||diyizby.com
 ||diyvm.com
 ||dm5.com
 ||dmzj.com
+||doc88.com
 ||docin.com
 ||douban.com
 ||douban.fm
@@ -276,6 +283,7 @@
 ||eeboard.com
 ||egovsum.com
 ||eia543.com
+||eiacloud.com
 ||eiafans.com
 ||elemecdn.com
 ||ele.me
@@ -284,11 +292,13 @@
 ||elsevier.io
 ||enkj.com
 ||eoffcn.com
+||ep-home.com
 ||esenchina.com
 ||esensing.net
 ||etao.com
 ||eudic.net
 ||everesttech.net
+||ewdcloud.com
 
 ! F
 ||fang.com
@@ -311,8 +321,10 @@
 ||gaokao.com
 ||gbw-china.com
 ||gbw365.com
+||gd-sct.com
 ||geekpark.net
 ||geetest.com
+||gentags.net
 ||getfedora.org
 ||getui.com
 ||gfan.com
@@ -348,6 +360,7 @@
 ||hiwifi.com
 ||hjenglish.com
 ||hostker.com
+||howtoabc.com
 ||hrol.org
 ||huaban.com
 ||huanbb.com
@@ -390,6 +403,7 @@
 ||installbi.me
 ||ip-api.com
 ||ip138.com
+||ipinyou.com
 ||ipip.net
 ||iplaysoft.com
 ||iqing.in
@@ -425,6 +439,7 @@
 ||joyyang.com
 ||jstor.org
 ||juneyaoair.com
+||jungreen.com
 ||jushi.com
 
 ! K
@@ -445,6 +460,7 @@
 
 ! L
 ||lackar.com
+||landiannews.com
 ||lany.me
 ||lanyus.com
 ||lanzous.com
@@ -456,6 +472,7 @@
 ||letv.com
 ||letvimg.com
 ||lg.com
+||lianjia.com
 ||liaoxuefeng.com
 ||linuxidc.com
 ||liyin.date
@@ -479,6 +496,7 @@
 ||maxfox.me
 ||mbalib.com
 ||mcbbs.net
+||mct01.com
 ||mdpi.com
 ||mdui.org
 ||mechrevo.com
@@ -523,7 +541,10 @@
 ||netease.im
 ||netseer.com
 ||newsmth.net
+||newsmy.com
+||ngabbs.com
 ||ngacn.cc
+||niceloo.com
 ||njjcbio.com
 ||nrcresearchpress.com
 ||nuomi.com
@@ -583,6 +604,7 @@
 ||qhimg.com
 ||qhmsg.com
 ||qhres.com
+||qianfansoft.net
 ||qianlima.com
 ||qidian.com
 ||qihucdn.com
@@ -626,6 +648,7 @@
 ||sagepub.com
 ||sandai.net
 ||sarm.net
+||saschina.org
 ||sb.sb
 ||scichina.com
 ||sciencedirect.com
@@ -638,6 +661,7 @@
 ||segmentfault.com
 ||sf-express.com
 ||shanbay.com
+||shanghai-map.net
 ||shanghaiwater.com
 ||sharepointonline.com
 ||shenhua.cc
@@ -672,12 +696,14 @@
 ||songshuhui.net
 ||soso.com
 ||soufun.com
+||sourcecodeprojects.com
 ||springairlines.com
 ||springer.com
 ||springerlink.com
 ||sspai.com
 ||stargame.com
 ||stcn.com
+||steamchina.com
 ||steamcn.com
 ||suning.com
 ||sznews.com
@@ -785,6 +811,7 @@
 ||xiaohongshu.com
 ||xiaoka.tv
 ||xiaomi.com
+||xiazaiziti.com
 ||xiepp.com
 ||ximalaya.com
 ||xinhuanet.com
@@ -793,6 +820,7 @@
 ||xldns.net
 ||xmcimg.com
 ||xuanfengge.com
+||xuehai.net
 ||xuetangx.com
 ||xujc.com
 ||xunlei.com
