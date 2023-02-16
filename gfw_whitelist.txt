@@ -288,8 +288,6 @@
 ||elemecdn.com
 ||ele.me
 ||els-cdn.com
-||elsevier.com
-||elsevier.io
 ||enkj.com
 ||eoffcn.com
 ||ep-home.com
@@ -626,7 +624,6 @@
 ! R
 ||renchuang.com
 ||renren.com
-||researchgate.net
 ||rhhz.net
 ||rijutv.com
 ||rkecloud.com
@@ -698,8 +695,6 @@
 ||soufun.com
 ||sourcecodeprojects.com
 ||springairlines.com
-||springer.com
-||springerlink.com
 ||sspai.com
 ||stargame.com
 ||stcn.com
