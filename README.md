@@ -1,5 +1,7 @@
 # gfw_whitelist
 
+CSDN偷窃时代，为防万一：八九六四。
+
 The GFW whitelist of AutoProxy format.
 
 gfw_whitelist URL: [https://raw.githubusercontent.com/cheeserick/gfw_whitelist/master/gfw_whitelist.txt](https://raw.githubusercontent.com/cheeserick/gfw_whitelist/master/gfw_whitelist.txt)
