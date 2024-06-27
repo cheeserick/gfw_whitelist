@@ -311,6 +311,7 @@
 ||foodmate.net
 ||freebuf.com
 ||freenom.com
+||fyscs.com
 
 ! G
 ||gamersky.com
@@ -328,6 +329,7 @@
 ||gfan.com
 ||gitee.com
 ||gllue.com
+||globalcash.hk
 ||golaravel.com
 ||greenment.net
 ||gridsumdissector.com
@@ -336,6 +338,7 @@
 ||gtimg.com
 ||guiji365.com
 ||guokr.com
+||gwy.com
 ||gxeduw.com
 
 ! H
@@ -364,6 +367,7 @@
 ||huanbb.com
 ||huanmusic.com
 ||huanqiu.com
+||huatu.com
 ||huawei.com
 ||huazhu.com
 ||huomao.com
@@ -412,6 +416,7 @@
 ||iteye.com
 ||ithome.com
 ||iwaponline.com
+||ixigua.com
 
 ! J
 ||jandan.net
@@ -444,6 +449,7 @@
 ||kan300.com
 ||kankan.com
 ||kanzhun.com
+||ke.com
 ||kekenet.com
 ||keppellandchina.com
 ||kf5.com
@@ -459,8 +465,10 @@
 ! L
 ||lackar.com
 ||landiannews.com
+||lanrar.com
 ||lany.me
 ||lanyus.com
+||lanzn.com
 ||lanzous.com
 ||laravel-china.org
 ||lascn.net
@@ -469,6 +477,7 @@
 ||lenovomobile.com
 ||letv.com
 ||letvimg.com
+||lilychem.com
 ||lg.com
 ||lianjia.com
 ||liaoxuefeng.com
@@ -489,6 +498,7 @@
 ||magiconch.com
 ||mail4geek.com
 ||mairuan.com
+||makenv.com
 ||maoyan.com
 ||masadora.net
 ||maxfox.me
@@ -503,6 +513,7 @@
 ||meituan.com
 ||meituan.net
 ||meizu.com
+||memory-space.org
 ||mengniang.org
 ||merckmillipore.com
 ||mi.com
@@ -522,6 +533,7 @@
 ||momentcdn.com
 ||msstatic.com
 ||mtyun.com
+||mubu.com
 ||muchong.com
 ||mukewang.com
 ||mumayi.com
@@ -543,6 +555,7 @@
 ||ngabbs.com
 ||ngacn.cc
 ||niceloo.com
+||niescq.top
 ||njjcbio.com
 ||nrcresearchpress.com
 ||nuomi.com
@@ -594,6 +607,7 @@
 
 ! Q
 ||qbox.me
+||qcc.com
 ||qcloud.com
 ||qcwgg.com
 ||qdaily.com
@@ -622,6 +636,7 @@
 ||qunar.com
 
 ! R
+||rainbowred.com
 ||renchuang.com
 ||renren.com
 ||rhhz.net
@@ -657,10 +672,12 @@
 ||sf-express.com
 ||shanbay.com
 ||shanghai-map.net
+||shdzdc.local
 ||shanghaiwater.com
 ||sharepointonline.com
 ||shenhua.cc
 ||shgjj.com
+||shgkw.org
 ||shikezhi.com
 ||shimo.im
 ||shiyanlou.com
@@ -681,6 +698,7 @@
 ||smtcdns.com
 ||smtcdns.net
 ||smzdm.com
+||snssdk.com
 ||so.com
 ||sogou.com
 ||sogoucdn.com
@@ -738,10 +756,12 @@
 ||toutiao.io
 ||tower.im
 ||truevue.org
+||tsdm39.com
 ||ttt.tt
 ||ttvnw.net
 ||tudou.com
 ||tuicool.com
+||tujixiazai.com
 ||tuna.moe
 ||tuniu.com
 ||tyeco.com
@@ -851,12 +871,16 @@
 ||zhihu.com
 ||zhiliangyuan.com
 ||zhimg.com
+||zhipin.com
 ||zhiye.com
 ||zhiziyun.com
 ||zhongkao.com
 ||zhugeio.com
 ||zhujike.com
+||zhumavip.com
+||zijieapi.com
 ||zimuzu.io
+||zjnuolan.com
 ||zmz001.com
 ||znyj365.com
 ||zuozizhi.com
